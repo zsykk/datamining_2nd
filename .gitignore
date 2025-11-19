@@ -1,3 +1,4 @@
 # 忽略所有 .csv 文件
 *.csv
 *.csv.gz
+*.tsv.gz
